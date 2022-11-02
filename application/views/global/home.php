@@ -1,3 +1,12 @@
+<style>
+.swiper{
+  height: 289px;
+  width: 438px;
+  margin-left: 5%; 
+  margin-top: 50px;"
+}
+</style>
+
 <div class="row">
   <div class="col m 12">
     <h5>Selamat Datang Di Perpustakaan Pasca Sarjana UIN SGD Bandung</h5>
@@ -15,7 +24,7 @@
                         <img src="assets2/img/aa.jpeg" alt="Decoration">
                     </div>
                     <div class="swiper-slide">
-                        <img src="assets2/img/background.png" alt="Decoration">
+                        <img src="assets2/img/rak-buku.png" alt="Decoration">
                     </div>
                     <div class="swiper-slide">
                         <img src="assets2/img/bkgsma.jpg" alt="Decoration">

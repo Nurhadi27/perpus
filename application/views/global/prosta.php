@@ -1,5 +1,5 @@
 <style>
-  .kartu {
+.kartu {
     max-width: 250px;
     margin: 100px auto 0;
     background-color: #42515a;

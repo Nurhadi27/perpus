@@ -56,19 +56,15 @@
           <ul class="right hide-on-med-and-down">
             <li><a class="btn" href="<?php echo base_url(); ?>/web/log" style="background-color: #e6e6e6; border-radius: 10px; color:black;">MASUK</a></li>
           </ul>
-
         </div>
       </div>
     </nav>
   </div>
 
   <div class="jumbotron" style="background-color: #046804; padding-bottom: 1%; margin-bottom: 0px">
-    <a href="<?php echo base_url();?>Buku" class="brand-logo"><img src="<?php echo base_url(); ?>assets2/img/logo uin.png" style="width: 70px; height: 82px; left: 23px; top: 58px; background-color: #046804; margin-top: -20px; margin-left: 25px; border: none" alt="LOGO UIN"></a>
-    <!-- <a href="<?php echo base_url();?>Buku" class="brand-logo"><img src="<?php echo base_url(); ?>assets2/img/logo uin.png" width= "72px" height= "84px" left= "23px" top = "58px" background-color= "#046804" margin-top= "-20px" margin-left= "25px" alt="LOGO UIN"></a> -->
-    <!-- <img src="assets2/img/logo uin.png" style="width: 72px; height: 84px; left: 23px; top: 58px; background-color: #046804; margin-top: -20px; margin-left: 25px; border: none;" class="img-thumbnail" alt="LOGO UIN"> -->
+    <a href="<?php echo base_url();?>Buku" class="brand-logo"><img src="<?php echo base_url(); ?>assets2/img/logo uin.png" style="width: 72px; height: 84px; left: 23px; top: 58px; background-color: #046804; margin-top: -20px; margin-left: 20px; border: none" class="img-thumbnail" alt="LOGO UIN"></a>
     <h3 style="color:white; font-weight: bolder !important; position: relative; margin-top: -90px; margin-left: 97px;">PERPUSTAKAAN PASCASARJANA<br>UIN SUNAN GUNUNG DJATI BANDUNG</h1>
       <nav class="pull-right" style="width: 600px; background-color: #063a06; height: 51px;">
-
         <div style="background-color: #063a06 ; width: fit-content; margin-top: 0%;">
           <ul class="right hide-on-med-and-down">
             <li><a href="<?php echo base_url(); ?>Buku" style="height: 50px;">BERANDA</a></li>
@@ -101,8 +97,8 @@
 
   <!-- SideNav -->
   <ul class="sidenav" id="mobile-nav">
-    <li><a href="<?php echo base_url(); ?>Buku/list_buku">Tentang</a></li>
-    <li><a href="<?php echo base_url(); ?>Buku/profile">Pendidikan</a></li>
+    <li><a href="<?php echo base_url(); ?>Buku/list_buku">Daftar Buku</a></li>
+    <li><a href="<?php echo base_url(); ?>Buku/profile">Profil</a></li>
     <li><a class="btn orange" href="portofolio.php">MASUK</a></li>
   </ul>
   <!-- SideNav-end -->
@@ -124,7 +120,6 @@
   </div>
   <footer class="card" style="background-color: #046804 ; margin-top: 100px; margin-bottom: 0px">
     <div class="card-body" style="color: white;">
-      <!-- <a href="<?php echo base_url();?>Buku" class="brand-logo"><img src="<?php echo base_url(); ?>assets2/img/logo uin.png" style="width: 70px; height: 82px; left: 23px; top: 58px; background-color: #046804; margin-top: -20px; margin-left: 25px; border: none" alt="LOGO UIN"></a> -->
       <a href="<?php echo base_url();?>Buku" class="brand-logo"><img src="<?php echo base_url(); ?>assets2/img/logo uin.png" style="width: 72px; height: 84px; left: 23px; top: 58px; background-color: #046804; margin-top: 15px; margin-left: 20px; border: none;" class="img-thumbnail" alt="LOGO UIN">
       <h3 class="fw-bolder fs-3" style="color:white; position: relative; margin-top: -87px; margin-left: 97px;">PASCASARJANA<br>UIN SUNAN GUNUNG DJATI BANDUNG</h3>
       <div class="info fw-bolder" style="margin-top: 20px; margin-left: 20px;">
@@ -150,10 +145,8 @@
         <p>Skripsi, Tesis, dan Disertasi<br></p>
         <p>Jurnal Online PASCASARJANA UIN<br></p>
       </div>
-      <div class="follow-us">
-
-      </div>
     </div>
+    <br>
     <div class="card-footer text-white fw-bolder text-center" style="background-color: #063a06;">
       &#169; 2022 PERPUSTAKAAN PASCASARJANA UIN SUNAN GUNUNG DJATI BANDUNG
     </div>
