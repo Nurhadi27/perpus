@@ -19,6 +19,9 @@
   <link href="<?php echo base_url(); ?>assets2/css/font-awesome.css" rel="stylesheet" />
   <!-- CUSTOM STYLE  -->
   <link href="<?php echo base_url(); ?>assets2/css/style.css" rel="stylesheet" />
+  <!-- SLIDER -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css"/>
+
   <style>
     .bgg {
       background-image: url('<?php echo base_url(); ?>assets2/img/1.jpg');
