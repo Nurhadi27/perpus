@@ -124,7 +124,8 @@
   </div>
   <footer class="card" style="background-color: #046804 ; margin-top: 100px; margin-bottom: 0px">
     <div class="card-body" style="color: white;">
-      <img src="assets2/img/logo uin.png" style="width: 72px; height: 84px; left: 23px; top: 58px; background-color: #046804; margin-top: 15px; margin-left: 20px; border: none;" class="img-thumbnail" alt="LOGO UIN">
+      <!-- <a href="<?php echo base_url();?>Buku" class="brand-logo"><img src="<?php echo base_url(); ?>assets2/img/logo uin.png" style="width: 70px; height: 82px; left: 23px; top: 58px; background-color: #046804; margin-top: -20px; margin-left: 25px; border: none" alt="LOGO UIN"></a> -->
+      <a href="<?php echo base_url();?>Buku" class="brand-logo"><img src="<?php echo base_url(); ?>assets2/img/logo uin.png" style="width: 72px; height: 84px; left: 23px; top: 58px; background-color: #046804; margin-top: 15px; margin-left: 20px; border: none;" class="img-thumbnail" alt="LOGO UIN">
       <h3 class="fw-bolder fs-3" style="color:white; position: relative; margin-top: -87px; margin-left: 97px;">PASCASARJANA<br>UIN SUNAN GUNUNG DJATI BANDUNG</h3>
       <div class="info fw-bolder" style="margin-top: 20px; margin-left: 20px;">
         <p>Pascasarjana UIN Bandung Kampus II UIN<br>Bandung Jalan Cimencrang, Panyileukan,<br>Cimencreang, Gedebage, Kota Bandung, Jawa<br>Barat 40292<br></p>
