@@ -63,7 +63,9 @@
   </div>
 
   <div class="jumbotron" style="background-color: #046804; padding-bottom: 1%; margin-bottom: 0px">
-    <img src="assets2/img/logo uin.png" style="width: 72px; height: 84px; left: 23px; top: 58px; background-color: #046804; margin-top: -20px; margin-left: 25px; border: none;" class="img-thumbnail" alt="LOGO UIN">
+    <a href="<?php echo base_url();?>Buku" class="brand-logo"><img src="<?php echo base_url(); ?>assets2/img/logo uin.png" style="width: 70px; height: 82px; left: 23px; top: 58px; background-color: #046804; margin-top: -20px; margin-left: 25px; border: none" alt="LOGO UIN"></a>
+    <!-- <a href="<?php echo base_url();?>Buku" class="brand-logo"><img src="<?php echo base_url(); ?>assets2/img/logo uin.png" width= "72px" height= "84px" left= "23px" top = "58px" background-color= "#046804" margin-top= "-20px" margin-left= "25px" alt="LOGO UIN"></a> -->
+    <!-- <img src="assets2/img/logo uin.png" style="width: 72px; height: 84px; left: 23px; top: 58px; background-color: #046804; margin-top: -20px; margin-left: 25px; border: none;" class="img-thumbnail" alt="LOGO UIN"> -->
     <h3 style="color:white; font-weight: bolder !important; position: relative; margin-top: -90px; margin-left: 97px;">PERPUSTAKAAN PASCASARJANA<br>UIN SUNAN GUNUNG DJATI BANDUNG</h1>
       <nav class="pull-right" style="width: 600px; background-color: #063a06; height: 51px;">
 
